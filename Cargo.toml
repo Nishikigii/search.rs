@@ -1,0 +1,7 @@
+[package]
+name = "search"
+version = "0.0.0"
+edition = "2021"
+description = "search properties from any sources in your terminal"
+
+[dependencies]
